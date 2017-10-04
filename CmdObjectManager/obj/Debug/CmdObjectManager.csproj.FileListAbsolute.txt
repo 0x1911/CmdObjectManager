@@ -1,0 +1,16 @@
+C:\Users\Ano\Desktop\ObjectManager\CmdObjectManager\bin\Debug\CmdObjectManager.exe.config
+C:\Users\Ano\Desktop\ObjectManager\CmdObjectManager\obj\Debug\CmdObjectManager.csprojResolveAssemblyReference.cache
+C:\Users\Ano\Desktop\ObjectManager\CmdObjectManager\bin\Debug\CmdObjectManager.exe
+C:\Users\Ano\Desktop\ObjectManager\CmdObjectManager\bin\Debug\CmdObjectManager.pdb
+C:\Users\Ano\Desktop\ObjectManager\CmdObjectManager\bin\Debug\fasmdll_managed.dll
+C:\Users\Ano\Desktop\ObjectManager\CmdObjectManager\bin\Debug\fasmdll_managed.pdb
+C:\Users\Ano\Desktop\ObjectManager\CmdObjectManager\obj\Debug\CmdObjectManager.exe
+C:\Users\Ano\Desktop\ObjectManager\CmdObjectManager\obj\Debug\CmdObjectManager.pdb
+C:\Users\Ano\Desktop\CmdObjectManager\CmdObjectManager\bin\Debug\CmdObjectManager.exe.config
+C:\Users\Ano\Desktop\CmdObjectManager\CmdObjectManager\obj\Debug\CmdObjectManager.exe
+C:\Users\Ano\Desktop\CmdObjectManager\CmdObjectManager\obj\Debug\CmdObjectManager.pdb
+C:\Users\Ano\Desktop\CmdObjectManager\CmdObjectManager\bin\Debug\CmdObjectManager.exe
+C:\Users\Ano\Desktop\CmdObjectManager\CmdObjectManager\bin\Debug\CmdObjectManager.pdb
+C:\Users\Ano\Desktop\CmdObjectManager\CmdObjectManager\bin\Debug\fasmdll_managed.dll
+C:\Users\Ano\Desktop\CmdObjectManager\CmdObjectManager\bin\Debug\fasmdll_managed.pdb
+C:\Users\Ano\Desktop\CmdObjectManager\CmdObjectManager\obj\Debug\CmdObjectManager.csprojResolveAssemblyReference.cache
